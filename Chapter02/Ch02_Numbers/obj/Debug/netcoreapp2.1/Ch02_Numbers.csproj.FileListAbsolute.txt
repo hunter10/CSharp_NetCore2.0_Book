@@ -1,0 +1,11 @@
+/Users/insungjung/Work/Code/Chapter02/Ch02_Numbers/bin/Debug/netcoreapp2.1/Ch02_Numbers.deps.json
+/Users/insungjung/Work/Code/Chapter02/Ch02_Numbers/bin/Debug/netcoreapp2.1/Ch02_Numbers.runtimeconfig.json
+/Users/insungjung/Work/Code/Chapter02/Ch02_Numbers/bin/Debug/netcoreapp2.1/Ch02_Numbers.runtimeconfig.dev.json
+/Users/insungjung/Work/Code/Chapter02/Ch02_Numbers/bin/Debug/netcoreapp2.1/Ch02_Numbers.dll
+/Users/insungjung/Work/Code/Chapter02/Ch02_Numbers/bin/Debug/netcoreapp2.1/Ch02_Numbers.pdb
+/Users/insungjung/Work/Code/Chapter02/Ch02_Numbers/obj/Debug/netcoreapp2.1/Ch02_Numbers.csprojAssemblyReference.cache
+/Users/insungjung/Work/Code/Chapter02/Ch02_Numbers/obj/Debug/netcoreapp2.1/Ch02_Numbers.csproj.CoreCompileInputs.cache
+/Users/insungjung/Work/Code/Chapter02/Ch02_Numbers/obj/Debug/netcoreapp2.1/Ch02_Numbers.AssemblyInfoInputs.cache
+/Users/insungjung/Work/Code/Chapter02/Ch02_Numbers/obj/Debug/netcoreapp2.1/Ch02_Numbers.AssemblyInfo.cs
+/Users/insungjung/Work/Code/Chapter02/Ch02_Numbers/obj/Debug/netcoreapp2.1/Ch02_Numbers.dll
+/Users/insungjung/Work/Code/Chapter02/Ch02_Numbers/obj/Debug/netcoreapp2.1/Ch02_Numbers.pdb

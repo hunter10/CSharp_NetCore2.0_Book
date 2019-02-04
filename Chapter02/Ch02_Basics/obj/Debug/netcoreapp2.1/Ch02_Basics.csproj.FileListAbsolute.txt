@@ -1,0 +1,11 @@
+/Users/insungjung/Work/Code/Chapter02/Ch02_Basics/bin/Debug/netcoreapp2.1/Ch02_Basics.deps.json
+/Users/insungjung/Work/Code/Chapter02/Ch02_Basics/bin/Debug/netcoreapp2.1/Ch02_Basics.runtimeconfig.json
+/Users/insungjung/Work/Code/Chapter02/Ch02_Basics/bin/Debug/netcoreapp2.1/Ch02_Basics.runtimeconfig.dev.json
+/Users/insungjung/Work/Code/Chapter02/Ch02_Basics/bin/Debug/netcoreapp2.1/Ch02_Basics.dll
+/Users/insungjung/Work/Code/Chapter02/Ch02_Basics/bin/Debug/netcoreapp2.1/Ch02_Basics.pdb
+/Users/insungjung/Work/Code/Chapter02/Ch02_Basics/obj/Debug/netcoreapp2.1/Ch02_Basics.csprojAssemblyReference.cache
+/Users/insungjung/Work/Code/Chapter02/Ch02_Basics/obj/Debug/netcoreapp2.1/Ch02_Basics.csproj.CoreCompileInputs.cache
+/Users/insungjung/Work/Code/Chapter02/Ch02_Basics/obj/Debug/netcoreapp2.1/Ch02_Basics.AssemblyInfoInputs.cache
+/Users/insungjung/Work/Code/Chapter02/Ch02_Basics/obj/Debug/netcoreapp2.1/Ch02_Basics.AssemblyInfo.cs
+/Users/insungjung/Work/Code/Chapter02/Ch02_Basics/obj/Debug/netcoreapp2.1/Ch02_Basics.dll
+/Users/insungjung/Work/Code/Chapter02/Ch02_Basics/obj/Debug/netcoreapp2.1/Ch02_Basics.pdb

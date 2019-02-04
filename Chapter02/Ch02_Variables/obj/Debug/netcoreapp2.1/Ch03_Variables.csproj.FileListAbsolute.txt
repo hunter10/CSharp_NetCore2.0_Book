@@ -1,0 +1,11 @@
+/Users/insungjung/Work/Code/Chapter02/Ch03_Variables/obj/Debug/netcoreapp2.1/Ch03_Variables.csprojAssemblyReference.cache
+/Users/insungjung/Work/Code/Chapter02/Ch03_Variables/obj/Debug/netcoreapp2.1/Ch03_Variables.csproj.CoreCompileInputs.cache
+/Users/insungjung/Work/Code/Chapter02/Ch03_Variables/obj/Debug/netcoreapp2.1/Ch03_Variables.AssemblyInfoInputs.cache
+/Users/insungjung/Work/Code/Chapter02/Ch03_Variables/obj/Debug/netcoreapp2.1/Ch03_Variables.AssemblyInfo.cs
+/Users/insungjung/Work/Code/Chapter02/Ch03_Variables/bin/Debug/netcoreapp2.1/Ch03_Variables.deps.json
+/Users/insungjung/Work/Code/Chapter02/Ch03_Variables/bin/Debug/netcoreapp2.1/Ch03_Variables.runtimeconfig.json
+/Users/insungjung/Work/Code/Chapter02/Ch03_Variables/bin/Debug/netcoreapp2.1/Ch03_Variables.runtimeconfig.dev.json
+/Users/insungjung/Work/Code/Chapter02/Ch03_Variables/bin/Debug/netcoreapp2.1/Ch03_Variables.dll
+/Users/insungjung/Work/Code/Chapter02/Ch03_Variables/bin/Debug/netcoreapp2.1/Ch03_Variables.pdb
+/Users/insungjung/Work/Code/Chapter02/Ch03_Variables/obj/Debug/netcoreapp2.1/Ch03_Variables.dll
+/Users/insungjung/Work/Code/Chapter02/Ch03_Variables/obj/Debug/netcoreapp2.1/Ch03_Variables.pdb

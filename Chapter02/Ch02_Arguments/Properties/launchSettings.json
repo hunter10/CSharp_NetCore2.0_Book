@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Ch02_Arguments": {
+      "commandName": "Project",
+      "commandLineArgs": "firstarg second-arg third:arg \"fourth arg\""
+    }
+  }
+}

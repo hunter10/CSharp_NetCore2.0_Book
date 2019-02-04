@@ -1,0 +1,11 @@
+/Users/insungjung/Work/Code/Chapter01/Ch01_WelcomeDotNetCore1/bin/Debug/netcoreapp2.1/Ch01_WelcomeDotNetCore1.deps.json
+/Users/insungjung/Work/Code/Chapter01/Ch01_WelcomeDotNetCore1/bin/Debug/netcoreapp2.1/Ch01_WelcomeDotNetCore1.runtimeconfig.json
+/Users/insungjung/Work/Code/Chapter01/Ch01_WelcomeDotNetCore1/bin/Debug/netcoreapp2.1/Ch01_WelcomeDotNetCore1.runtimeconfig.dev.json
+/Users/insungjung/Work/Code/Chapter01/Ch01_WelcomeDotNetCore1/bin/Debug/netcoreapp2.1/Ch01_WelcomeDotNetCore1.dll
+/Users/insungjung/Work/Code/Chapter01/Ch01_WelcomeDotNetCore1/bin/Debug/netcoreapp2.1/Ch01_WelcomeDotNetCore1.pdb
+/Users/insungjung/Work/Code/Chapter01/Ch01_WelcomeDotNetCore1/obj/Debug/netcoreapp2.1/Ch01_WelcomeDotNetCore1.csprojAssemblyReference.cache
+/Users/insungjung/Work/Code/Chapter01/Ch01_WelcomeDotNetCore1/obj/Debug/netcoreapp2.1/Ch01_WelcomeDotNetCore1.csproj.CoreCompileInputs.cache
+/Users/insungjung/Work/Code/Chapter01/Ch01_WelcomeDotNetCore1/obj/Debug/netcoreapp2.1/Ch01_WelcomeDotNetCore1.AssemblyInfoInputs.cache
+/Users/insungjung/Work/Code/Chapter01/Ch01_WelcomeDotNetCore1/obj/Debug/netcoreapp2.1/Ch01_WelcomeDotNetCore1.AssemblyInfo.cs
+/Users/insungjung/Work/Code/Chapter01/Ch01_WelcomeDotNetCore1/obj/Debug/netcoreapp2.1/Ch01_WelcomeDotNetCore1.dll
+/Users/insungjung/Work/Code/Chapter01/Ch01_WelcomeDotNetCore1/obj/Debug/netcoreapp2.1/Ch01_WelcomeDotNetCore1.pdb

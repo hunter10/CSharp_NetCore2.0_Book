@@ -1,0 +1,11 @@
+/Users/insungjung/Work/Code/Chapter04/Ch04_RegularExpressions/bin/Debug/netcoreapp2.1/Ch04_RegularExpressions.deps.json
+/Users/insungjung/Work/Code/Chapter04/Ch04_RegularExpressions/bin/Debug/netcoreapp2.1/Ch04_RegularExpressions.runtimeconfig.json
+/Users/insungjung/Work/Code/Chapter04/Ch04_RegularExpressions/bin/Debug/netcoreapp2.1/Ch04_RegularExpressions.runtimeconfig.dev.json
+/Users/insungjung/Work/Code/Chapter04/Ch04_RegularExpressions/bin/Debug/netcoreapp2.1/Ch04_RegularExpressions.dll
+/Users/insungjung/Work/Code/Chapter04/Ch04_RegularExpressions/bin/Debug/netcoreapp2.1/Ch04_RegularExpressions.pdb
+/Users/insungjung/Work/Code/Chapter04/Ch04_RegularExpressions/obj/Debug/netcoreapp2.1/Ch04_RegularExpressions.csprojAssemblyReference.cache
+/Users/insungjung/Work/Code/Chapter04/Ch04_RegularExpressions/obj/Debug/netcoreapp2.1/Ch04_RegularExpressions.csproj.CoreCompileInputs.cache
+/Users/insungjung/Work/Code/Chapter04/Ch04_RegularExpressions/obj/Debug/netcoreapp2.1/Ch04_RegularExpressions.AssemblyInfoInputs.cache
+/Users/insungjung/Work/Code/Chapter04/Ch04_RegularExpressions/obj/Debug/netcoreapp2.1/Ch04_RegularExpressions.AssemblyInfo.cs
+/Users/insungjung/Work/Code/Chapter04/Ch04_RegularExpressions/obj/Debug/netcoreapp2.1/Ch04_RegularExpressions.dll
+/Users/insungjung/Work/Code/Chapter04/Ch04_RegularExpressions/obj/Debug/netcoreapp2.1/Ch04_RegularExpressions.pdb
