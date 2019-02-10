@@ -1,0 +1,17 @@
+Z:\Work\Code_Study\Chapter05\Ch05_CalculatorUnitTests_win\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+Z:\Work\Code_Study\Chapter05\Ch05_CalculatorUnitTests_win\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+Z:\Work\Code_Study\Chapter05\Ch05_CalculatorUnitTests_win\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+Z:\Work\Code_Study\Chapter05\Ch05_CalculatorUnitTests_win\bin\Debug\netcoreapp2.2\Ch05_CalculatorUnitTests_win.deps.json
+Z:\Work\Code_Study\Chapter05\Ch05_CalculatorUnitTests_win\bin\Debug\netcoreapp2.2\Ch05_CalculatorUnitTests_win.runtimeconfig.json
+Z:\Work\Code_Study\Chapter05\Ch05_CalculatorUnitTests_win\bin\Debug\netcoreapp2.2\Ch05_CalculatorUnitTests_win.runtimeconfig.dev.json
+Z:\Work\Code_Study\Chapter05\Ch05_CalculatorUnitTests_win\bin\Debug\netcoreapp2.2\Ch05_CalculatorUnitTests_win.dll
+Z:\Work\Code_Study\Chapter05\Ch05_CalculatorUnitTests_win\bin\Debug\netcoreapp2.2\Ch05_CalculatorUnitTests_win.pdb
+Z:\Work\Code_Study\Chapter05\Ch05_CalculatorUnitTests_win\bin\Debug\netcoreapp2.2\Ch05_Calculator_win.dll
+Z:\Work\Code_Study\Chapter05\Ch05_CalculatorUnitTests_win\bin\Debug\netcoreapp2.2\Ch05_Calculator_win.pdb
+Z:\Work\Code_Study\Chapter05\Ch05_CalculatorUnitTests_win\obj\Debug\netcoreapp2.2\Ch05_CalculatorUnitTests_win.csprojAssemblyReference.cache
+Z:\Work\Code_Study\Chapter05\Ch05_CalculatorUnitTests_win\obj\Debug\netcoreapp2.2\Ch05_CalculatorUnitTests_win.csproj.CoreCompileInputs.cache
+Z:\Work\Code_Study\Chapter05\Ch05_CalculatorUnitTests_win\obj\Debug\netcoreapp2.2\Ch05_CalculatorUnitTests_win.AssemblyInfoInputs.cache
+Z:\Work\Code_Study\Chapter05\Ch05_CalculatorUnitTests_win\obj\Debug\netcoreapp2.2\Ch05_CalculatorUnitTests_win.AssemblyInfo.cs
+Z:\Work\Code_Study\Chapter05\Ch05_CalculatorUnitTests_win\obj\Debug\netcoreapp2.2\Ch05_CalculatorUnitTests_win.csproj.CopyComplete
+Z:\Work\Code_Study\Chapter05\Ch05_CalculatorUnitTests_win\obj\Debug\netcoreapp2.2\Ch05_CalculatorUnitTests_win.dll
+Z:\Work\Code_Study\Chapter05\Ch05_CalculatorUnitTests_win\obj\Debug\netcoreapp2.2\Ch05_CalculatorUnitTests_win.pdb

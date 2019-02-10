@@ -1,0 +1,17 @@
+/Users/insungjung/Work/Code_Study/Chapter05/Ch05_CalculatorUnitTests/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/insungjung/Work/Code_Study/Chapter05/Ch05_CalculatorUnitTests/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/insungjung/Work/Code_Study/Chapter05/Ch05_CalculatorUnitTests/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/insungjung/Work/Code_Study/Chapter05/Ch05_CalculatorUnitTests/bin/Debug/netcoreapp2.2/Ch05_CalculatorUnitTests.deps.json
+/Users/insungjung/Work/Code_Study/Chapter05/Ch05_CalculatorUnitTests/bin/Debug/netcoreapp2.2/Ch05_CalculatorUnitTests.runtimeconfig.json
+/Users/insungjung/Work/Code_Study/Chapter05/Ch05_CalculatorUnitTests/bin/Debug/netcoreapp2.2/Ch05_CalculatorUnitTests.runtimeconfig.dev.json
+/Users/insungjung/Work/Code_Study/Chapter05/Ch05_CalculatorUnitTests/bin/Debug/netcoreapp2.2/Ch05_CalculatorUnitTests.dll
+/Users/insungjung/Work/Code_Study/Chapter05/Ch05_CalculatorUnitTests/bin/Debug/netcoreapp2.2/Ch05_CalculatorUnitTests.pdb
+/Users/insungjung/Work/Code_Study/Chapter05/Ch05_CalculatorUnitTests/bin/Debug/netcoreapp2.2/Ch05_Calculator.dll
+/Users/insungjung/Work/Code_Study/Chapter05/Ch05_CalculatorUnitTests/bin/Debug/netcoreapp2.2/Ch05_Calculator.pdb
+/Users/insungjung/Work/Code_Study/Chapter05/Ch05_CalculatorUnitTests/obj/Debug/netcoreapp2.2/Ch05_CalculatorUnitTests.csprojAssemblyReference.cache
+/Users/insungjung/Work/Code_Study/Chapter05/Ch05_CalculatorUnitTests/obj/Debug/netcoreapp2.2/Ch05_CalculatorUnitTests.csproj.CoreCompileInputs.cache
+/Users/insungjung/Work/Code_Study/Chapter05/Ch05_CalculatorUnitTests/obj/Debug/netcoreapp2.2/Ch05_CalculatorUnitTests.AssemblyInfoInputs.cache
+/Users/insungjung/Work/Code_Study/Chapter05/Ch05_CalculatorUnitTests/obj/Debug/netcoreapp2.2/Ch05_CalculatorUnitTests.AssemblyInfo.cs
+/Users/insungjung/Work/Code_Study/Chapter05/Ch05_CalculatorUnitTests/obj/Debug/netcoreapp2.2/Ch05_CalculatorUnitTests.csproj.CopyComplete
+/Users/insungjung/Work/Code_Study/Chapter05/Ch05_CalculatorUnitTests/obj/Debug/netcoreapp2.2/Ch05_CalculatorUnitTests.dll
+/Users/insungjung/Work/Code_Study/Chapter05/Ch05_CalculatorUnitTests/obj/Debug/netcoreapp2.2/Ch05_CalculatorUnitTests.pdb

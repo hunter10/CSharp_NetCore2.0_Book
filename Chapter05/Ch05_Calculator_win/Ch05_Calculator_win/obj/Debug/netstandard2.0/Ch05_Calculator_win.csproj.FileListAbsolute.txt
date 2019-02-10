@@ -1,0 +1,9 @@
+Z:\Work\Code_Study\Chapter05\Ch05_Calculator_win\Ch05_Calculator_win\bin\Debug\netstandard2.0\Ch05_Calculator_win.deps.json
+Z:\Work\Code_Study\Chapter05\Ch05_Calculator_win\Ch05_Calculator_win\bin\Debug\netstandard2.0\Ch05_Calculator_win.dll
+Z:\Work\Code_Study\Chapter05\Ch05_Calculator_win\Ch05_Calculator_win\bin\Debug\netstandard2.0\Ch05_Calculator_win.pdb
+Z:\Work\Code_Study\Chapter05\Ch05_Calculator_win\Ch05_Calculator_win\obj\Debug\netstandard2.0\Ch05_Calculator_win.csprojAssemblyReference.cache
+Z:\Work\Code_Study\Chapter05\Ch05_Calculator_win\Ch05_Calculator_win\obj\Debug\netstandard2.0\Ch05_Calculator_win.csproj.CoreCompileInputs.cache
+Z:\Work\Code_Study\Chapter05\Ch05_Calculator_win\Ch05_Calculator_win\obj\Debug\netstandard2.0\Ch05_Calculator_win.AssemblyInfoInputs.cache
+Z:\Work\Code_Study\Chapter05\Ch05_Calculator_win\Ch05_Calculator_win\obj\Debug\netstandard2.0\Ch05_Calculator_win.AssemblyInfo.cs
+Z:\Work\Code_Study\Chapter05\Ch05_Calculator_win\Ch05_Calculator_win\obj\Debug\netstandard2.0\Ch05_Calculator_win.dll
+Z:\Work\Code_Study\Chapter05\Ch05_Calculator_win\Ch05_Calculator_win\obj\Debug\netstandard2.0\Ch05_Calculator_win.pdb

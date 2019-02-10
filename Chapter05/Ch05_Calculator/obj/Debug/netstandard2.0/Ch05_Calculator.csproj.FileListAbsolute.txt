@@ -1,0 +1,9 @@
+/Users/insungjung/Work/Code_Study/Chapter05/Ch05_Calculator/bin/Debug/netstandard2.0/Ch05_Calculator.deps.json
+/Users/insungjung/Work/Code_Study/Chapter05/Ch05_Calculator/bin/Debug/netstandard2.0/Ch05_Calculator.dll
+/Users/insungjung/Work/Code_Study/Chapter05/Ch05_Calculator/bin/Debug/netstandard2.0/Ch05_Calculator.pdb
+/Users/insungjung/Work/Code_Study/Chapter05/Ch05_Calculator/obj/Debug/netstandard2.0/Ch05_Calculator.csprojAssemblyReference.cache
+/Users/insungjung/Work/Code_Study/Chapter05/Ch05_Calculator/obj/Debug/netstandard2.0/Ch05_Calculator.csproj.CoreCompileInputs.cache
+/Users/insungjung/Work/Code_Study/Chapter05/Ch05_Calculator/obj/Debug/netstandard2.0/Ch05_Calculator.AssemblyInfoInputs.cache
+/Users/insungjung/Work/Code_Study/Chapter05/Ch05_Calculator/obj/Debug/netstandard2.0/Ch05_Calculator.AssemblyInfo.cs
+/Users/insungjung/Work/Code_Study/Chapter05/Ch05_Calculator/obj/Debug/netstandard2.0/Ch05_Calculator.dll
+/Users/insungjung/Work/Code_Study/Chapter05/Ch05_Calculator/obj/Debug/netstandard2.0/Ch05_Calculator.pdb
