@@ -1,0 +1,9 @@
+/Users/insungjung/Work/Code_Study/Chapter06/Ch06_PacktLibrary/bin/Debug/netstandard2.0/Ch06_PacktLibrary.deps.json
+/Users/insungjung/Work/Code_Study/Chapter06/Ch06_PacktLibrary/bin/Debug/netstandard2.0/Ch06_PacktLibrary.dll
+/Users/insungjung/Work/Code_Study/Chapter06/Ch06_PacktLibrary/bin/Debug/netstandard2.0/Ch06_PacktLibrary.pdb
+/Users/insungjung/Work/Code_Study/Chapter06/Ch06_PacktLibrary/obj/Debug/netstandard2.0/Ch06_PacktLibrary.csprojAssemblyReference.cache
+/Users/insungjung/Work/Code_Study/Chapter06/Ch06_PacktLibrary/obj/Debug/netstandard2.0/Ch06_PacktLibrary.csproj.CoreCompileInputs.cache
+/Users/insungjung/Work/Code_Study/Chapter06/Ch06_PacktLibrary/obj/Debug/netstandard2.0/Ch06_PacktLibrary.AssemblyInfoInputs.cache
+/Users/insungjung/Work/Code_Study/Chapter06/Ch06_PacktLibrary/obj/Debug/netstandard2.0/Ch06_PacktLibrary.AssemblyInfo.cs
+/Users/insungjung/Work/Code_Study/Chapter06/Ch06_PacktLibrary/obj/Debug/netstandard2.0/Ch06_PacktLibrary.dll
+/Users/insungjung/Work/Code_Study/Chapter06/Ch06_PacktLibrary/obj/Debug/netstandard2.0/Ch06_PacktLibrary.pdb

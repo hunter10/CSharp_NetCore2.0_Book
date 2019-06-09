@@ -1,0 +1,14 @@
+Z:\Work\Code_Study\Chapter06_Win\Ch06_PeopleApp\bin\Debug\netcoreapp2.2\Ch06_PeopleApp.deps.json
+Z:\Work\Code_Study\Chapter06_Win\Ch06_PeopleApp\bin\Debug\netcoreapp2.2\Ch06_PeopleApp.runtimeconfig.json
+Z:\Work\Code_Study\Chapter06_Win\Ch06_PeopleApp\bin\Debug\netcoreapp2.2\Ch06_PeopleApp.runtimeconfig.dev.json
+Z:\Work\Code_Study\Chapter06_Win\Ch06_PeopleApp\bin\Debug\netcoreapp2.2\Ch06_PeopleApp.dll
+Z:\Work\Code_Study\Chapter06_Win\Ch06_PeopleApp\bin\Debug\netcoreapp2.2\Ch06_PeopleApp.pdb
+Z:\Work\Code_Study\Chapter06_Win\Ch06_PeopleApp\obj\Debug\netcoreapp2.2\Ch06_PeopleApp.csprojAssemblyReference.cache
+Z:\Work\Code_Study\Chapter06_Win\Ch06_PeopleApp\obj\Debug\netcoreapp2.2\Ch06_PeopleApp.csproj.CoreCompileInputs.cache
+Z:\Work\Code_Study\Chapter06_Win\Ch06_PeopleApp\obj\Debug\netcoreapp2.2\Ch06_PeopleApp.AssemblyInfoInputs.cache
+Z:\Work\Code_Study\Chapter06_Win\Ch06_PeopleApp\obj\Debug\netcoreapp2.2\Ch06_PeopleApp.AssemblyInfo.cs
+Z:\Work\Code_Study\Chapter06_Win\Ch06_PeopleApp\obj\Debug\netcoreapp2.2\Ch06_PeopleApp.dll
+Z:\Work\Code_Study\Chapter06_Win\Ch06_PeopleApp\obj\Debug\netcoreapp2.2\Ch06_PeopleApp.pdb
+Z:\Work\Code_Study\Chapter06_Win\Ch06_PeopleApp\bin\Debug\netcoreapp2.2\Ch06_PacktLibrary.dll
+Z:\Work\Code_Study\Chapter06_Win\Ch06_PeopleApp\bin\Debug\netcoreapp2.2\Ch06_PacktLibrary.pdb
+Z:\Work\Code_Study\Chapter06_Win\Ch06_PeopleApp\obj\Debug\netcoreapp2.2\Ch06_PeopleApp.csproj.CopyComplete

@@ -1,0 +1,11 @@
+/Users/insungjung/Work/Code_Study/Chapter08/Ch08_EFCore/obj/Debug/netcoreapp2.2/Ch08_EFCore.csprojAssemblyReference.cache
+/Users/insungjung/Work/Code_Study/Chapter08/Ch08_EFCore/obj/Debug/netcoreapp2.2/Ch08_EFCore.csproj.CoreCompileInputs.cache
+/Users/insungjung/Work/Code_Study/Chapter08/Ch08_EFCore/obj/Debug/netcoreapp2.2/Ch08_EFCore.AssemblyInfoInputs.cache
+/Users/insungjung/Work/Code_Study/Chapter08/Ch08_EFCore/obj/Debug/netcoreapp2.2/Ch08_EFCore.AssemblyInfo.cs
+/Users/insungjung/Work/Code_Study/Chapter08/Ch08_EFCore/bin/Debug/netcoreapp2.2/Ch08_EFCore.deps.json
+/Users/insungjung/Work/Code_Study/Chapter08/Ch08_EFCore/bin/Debug/netcoreapp2.2/Ch08_EFCore.runtimeconfig.json
+/Users/insungjung/Work/Code_Study/Chapter08/Ch08_EFCore/bin/Debug/netcoreapp2.2/Ch08_EFCore.runtimeconfig.dev.json
+/Users/insungjung/Work/Code_Study/Chapter08/Ch08_EFCore/bin/Debug/netcoreapp2.2/Ch08_EFCore.dll
+/Users/insungjung/Work/Code_Study/Chapter08/Ch08_EFCore/bin/Debug/netcoreapp2.2/Ch08_EFCore.pdb
+/Users/insungjung/Work/Code_Study/Chapter08/Ch08_EFCore/obj/Debug/netcoreapp2.2/Ch08_EFCore.dll
+/Users/insungjung/Work/Code_Study/Chapter08/Ch08_EFCore/obj/Debug/netcoreapp2.2/Ch08_EFCore.pdb

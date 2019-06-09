@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/insungjung/Work/Code_Study/Chapter06/Ch06_PeopleApp/Ch06_PeopleApp.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+/Users/insungjung/Work/Code_Study/Chapter07/Ch07_PeopleApp/bin/Debug/netcoreapp2.2/Ch07_PeopleApp.deps.json
+/Users/insungjung/Work/Code_Study/Chapter07/Ch07_PeopleApp/bin/Debug/netcoreapp2.2/Ch07_PeopleApp.runtimeconfig.json
+/Users/insungjung/Work/Code_Study/Chapter07/Ch07_PeopleApp/bin/Debug/netcoreapp2.2/Ch07_PeopleApp.runtimeconfig.dev.json
+/Users/insungjung/Work/Code_Study/Chapter07/Ch07_PeopleApp/bin/Debug/netcoreapp2.2/Ch07_PeopleApp.dll
+/Users/insungjung/Work/Code_Study/Chapter07/Ch07_PeopleApp/bin/Debug/netcoreapp2.2/Ch07_PeopleApp.pdb
+/Users/insungjung/Work/Code_Study/Chapter07/Ch07_PeopleApp/bin/Debug/netcoreapp2.2/Ch07_PacktLibrary.dll
+/Users/insungjung/Work/Code_Study/Chapter07/Ch07_PeopleApp/bin/Debug/netcoreapp2.2/Ch07_PacktLibrary.pdb
+/Users/insungjung/Work/Code_Study/Chapter07/Ch07_PeopleApp/obj/Debug/netcoreapp2.2/Ch07_PeopleApp.csprojAssemblyReference.cache
+/Users/insungjung/Work/Code_Study/Chapter07/Ch07_PeopleApp/obj/Debug/netcoreapp2.2/Ch07_PeopleApp.csproj.CoreCompileInputs.cache
+/Users/insungjung/Work/Code_Study/Chapter07/Ch07_PeopleApp/obj/Debug/netcoreapp2.2/Ch07_PeopleApp.AssemblyInfoInputs.cache
+/Users/insungjung/Work/Code_Study/Chapter07/Ch07_PeopleApp/obj/Debug/netcoreapp2.2/Ch07_PeopleApp.AssemblyInfo.cs
+/Users/insungjung/Work/Code_Study/Chapter07/Ch07_PeopleApp/obj/Debug/netcoreapp2.2/Ch07_PeopleApp.csproj.CopyComplete
+/Users/insungjung/Work/Code_Study/Chapter07/Ch07_PeopleApp/obj/Debug/netcoreapp2.2/Ch07_PeopleApp.dll
+/Users/insungjung/Work/Code_Study/Chapter07/Ch07_PeopleApp/obj/Debug/netcoreapp2.2/Ch07_PeopleApp.pdb

@@ -1,0 +1,15 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "build",
+                "${workspaceFolder}/Ch07_PeopleApp/Ch07_PeopleApp.csproj"
+            ],
+            "problemMatcher": "$msCompile"
+        }
+    ]
+}

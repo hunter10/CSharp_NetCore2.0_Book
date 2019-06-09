@@ -1,0 +1,8 @@
+Z:\Work\Code_Study\Chapter08_Win\Ch08_EFCore\bin\Debug\netcoreapp2.2\Ch08_EFCore.deps.json
+Z:\Work\Code_Study\Chapter08_Win\Ch08_EFCore\bin\Debug\netcoreapp2.2\Ch08_EFCore.runtimeconfig.json
+Z:\Work\Code_Study\Chapter08_Win\Ch08_EFCore\bin\Debug\netcoreapp2.2\Ch08_EFCore.runtimeconfig.dev.json
+Z:\Work\Code_Study\Chapter08_Win\Ch08_EFCore\bin\Debug\netcoreapp2.2\Ch08_EFCore.dll
+Z:\Work\Code_Study\Chapter08_Win\Ch08_EFCore\obj\Debug\netcoreapp2.2\Ch08_EFCore.csprojAssemblyReference.cache
+Z:\Work\Code_Study\Chapter08_Win\Ch08_EFCore\obj\Debug\netcoreapp2.2\Ch08_EFCore.csproj.CoreCompileInputs.cache
+Z:\Work\Code_Study\Chapter08_Win\Ch08_EFCore\obj\Debug\netcoreapp2.2\Ch08_EFCore.AssemblyInfoInputs.cache
+Z:\Work\Code_Study\Chapter08_Win\Ch08_EFCore\obj\Debug\netcoreapp2.2\Ch08_EFCore.AssemblyInfo.cs
